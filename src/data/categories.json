@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Ensaladas",
+    "id": 1,
+    "numRecipies": 1
+  },
+  {
+    "name": "Platos principales",
+    "id": 2,
+    "numRecipies": 1
+  },
+  {
+    "name": "Vegetariano",
+    "id": 3,
+    "numRecipies": 4
+  },
+  {
+    "name": "Sopas",
+    "id": 4,
+    "numRecipies": 2
+  },
+  {
+    "name": "Postres",
+    "id": 5,
+    "numRecipies": 1
+  },
+  {
+    "name": "Otras",
+    "id": 6,
+    "numRecipies": 0
+  },
+  {
+    "name": "Desayunos",
+    "id": 7,
+    "numRecipies": 0
+  }
+]

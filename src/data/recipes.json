@@ -1,0 +1,175 @@
+[
+  {
+    "id": 1,
+    "name": "Ensalada de pollo y quinoa",
+    "ingredients": [
+      "Quinoa",
+      "Pollo",
+      "Espinacas",
+      "Tomates cherry",
+      "Aguacate"
+    ],
+    "preparation": "Cocina la quinoa y el pollo, mezcla con los vegetales y el aguacate.",
+    "proteins": 35,
+    "carbs": 35,
+    "fat": 15,
+    "totalCal": 420,
+    "category": "Ensaladas",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tazón de salmón y verduras",
+    "ingredients": [
+      "Salmón",
+      "Arroz integral",
+      "Brócoli",
+      "Zanahoria",
+      "Cebolla"
+    ],
+    "preparation": "Cocina el arroz, el salmón y las verduras al vapor o al horno.",
+    "proteins": 30,
+    "carbs": 40,
+    "fat": 12,
+    "totalCal": 390,
+    "category": "Platos principales",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tacos de lenteja y aguacate",
+    "ingredients": [
+      "Tortillas de maíz",
+      "Lentejas",
+      "Aguacate",
+      "Cebolla",
+      "Cilantro"
+    ],
+    "preparation": "Cocina las lentejas, sirve en las tortillas con los demás ingredientes.",
+    "proteins": 15,
+    "carbs": 45,
+    "fat": 20,
+    "totalCal": 420,
+    "category": "Vegetariano",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Paella de verduras",
+    "ingredients": [
+      "Arroz integral",
+      "Berenjena",
+      "Calabacín",
+      "Pimiento",
+      "Champiñones"
+    ],
+    "preparation": "Cocina el arroz con las verduras en una paellera.",
+    "proteins": 10,
+    "carbs": 60,
+    "fat": 5,
+    "totalCal": 320,
+    "category": "Vegetariano",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sopa de pollo y verduras",
+    "ingredients": ["Pollo", "Zanahoria", "Apio", "Cebolla", "Caldo de pollo"],
+    "preparation": "Cocina el pollo y las verduras en el caldo.",
+    "proteins": 25,
+    "carbs": 15,
+    "fat": 5,
+    "totalCal": 210,
+    "category": "Sopas",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pizza vegana",
+    "ingredients": [
+      "Masa de pizza integral",
+      "Salsa de tomate",
+      "Champiñones",
+      "Pimiento",
+      "Espinacas"
+    ],
+    "preparation": "Extiende la masa, agrega los ingredientes y hornea.",
+    "proteins": 12,
+    "carbs": 60,
+    "fat": 8,
+    "totalCal": 380,
+    "category": "Vegetariano",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hamburguesa vegetariana",
+    "ingredients": [
+      "Pan integral",
+      "Hamburguesa de lentejas",
+      "Lechuga",
+      "Tomate",
+      "Cebolla"
+    ],
+    "preparation": "Cocina la hamburguesa de lentejas, arma con los ingredientes.",
+    "proteins": 20,
+    "carbs": 40,
+    "fat": 10,
+    "totalCal": 350,
+    "category": "Vegetariano",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sushi de verduras",
+    "ingredients": [
+      "Arroz integral",
+      "Pepino",
+      "Zanahoria",
+      "Alga nori",
+      "Vinagre de arroz"
+    ],
+    "preparation": "Prepara el arroz, enrolla con las verduras en el alga nori.",
+    "proteins": 5,
+    "carbs": 45,
+    "fat": 2,
+    "totalCal": 210,
+    "category": "Vegetariano",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tarta de manzana sin azúcar",
+    "ingredients": [
+      "Masa de tarta integral",
+      "Manzanas",
+      "Canela",
+      "Endulzante natural"
+    ],
+    "preparation": "Prepara la masa, rellena con las manzanas y hornea.",
+    "proteins": 5,
+    "carbs": 40,
+    "fat": 10,
+    "totalCal": 280,
+    "category": "Postres",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Gazpacho",
+    "ingredients": [
+      "Tomates",
+      "Pepino",
+      "Pimiento",
+      "Aceite de oliva",
+      "Vinagre"
+    ],
+    "preparation": "Licúa todos los ingredientes y sirve frío.",
+    "proteins": 2,
+    "carbs": 15,
+    "fat": 10,
+    "totalCal": 150,
+    "category": "Sopas",
+    "imageUrl": "https://img.freepik.com/fotos-premium/ensalada-cesar-ensalada-lechuga-romana-croutones-parmesano-aderezo-cesar_1166140-9320.jpg"
+  }
+]
